@@ -88,10 +88,7 @@ Power Query was used for:
 -	Formatting data types 
 ________________________________________
 📸 Power Query Steps
- 
- 
-
-
+ ![Power Query](Image/Power_query.png)
 ________________________________________
 📊 DAX Measures (Business Logic)
 Key metrics were created using DAX:
@@ -187,3 +184,10 @@ This project demonstrates the ability to:
 -	Combine SQL and Power BI effectively 
 -	Build scalable and business-focused analytics solutions
 
+👤 Author & Contact
+
+Priyansh Saxena
+🎓 Engineering Management Graduate | CAPM® Certified
+📊 Aspiring Project Analyst / PMO / Business Intelligence
+🔗 LinkedIn: https://www.linkedin.com/in/priyanshsaxena1995
+💻 GitHub: https://github.com/Priyansh21-hub
