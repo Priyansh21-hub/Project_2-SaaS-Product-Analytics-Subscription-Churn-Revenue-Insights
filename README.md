@@ -161,7 +161,8 @@ Key Insights:
 | Finance Teams    | Revenue tracking (MRR/ARR)                 |
 | Customer Success | Churn analysis & retention                |
 | Support Teams    | Ticket performance & satisfaction          |
-| Leadership       | Overall business health                   |________________________________________
+| Leadership       | Overall business health                   |
+
 🧠 Key Learnings
 -	Built an end-to-end analytics pipeline 
 -	Applied SQL for real-world data transformation 
