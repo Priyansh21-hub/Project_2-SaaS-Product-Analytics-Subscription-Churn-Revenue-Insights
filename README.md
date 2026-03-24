@@ -3,23 +3,23 @@ ________________________________________
 🧾 Project Overview
 This project presents an end-to-end SaaS analytics solution designed to analyze subscription performance, customer churn, product usage, and customer experience.
 The solution integrates:
-• SQL (MySQL) → Data cleaning, transformation, and staging 
-• Power BI → Data modeling, DAX, and interactive dashboards 
+-SQL (MySQL) → Data cleaning, transformation, and staging 
+-Power BI → Data modeling, DAX, and interactive dashboards 
 The goal is to transform raw data into actionable business insights through a structured analytics pipeline.
 ________________________________________
 🧠 Business Problem
 SaaS businesses often struggle with:
-📉 High customer churn without clear root causes 
-💰 Limited visibility into revenue performance (MRR/ARR) 
-📊 Lack of insight into product usage and feature adoption 
-🎧 Inefficient tracking of customer support and satisfaction 
+-📉 High customer churn without clear root causes 
+-💰 Limited visibility into revenue performance (MRR/ARR) 
+-📊 Lack of insight into product usage and feature adoption 
+-🎧 Inefficient tracking of customer support and satisfaction 
 ________________________________________
 🎯 Project Objectives
-• Analyze revenue trends and subscription performance 
-• Identify churn drivers and high-risk segments 
-• Evaluate feature usage and engagement patterns 
-• Measure customer satisfaction and support efficiency 
-• Build a scalable and optimized data model 
+-Analyze revenue trends and subscription performance 
+-Identify churn drivers and high-risk segments 
+-Evaluate feature usage and engagement patterns 
+-Measure customer satisfaction and support efficiency 
+-Build a scalable and optimized data model 
 ________________________________________
 🏗️ Data Architecture
 Kaggle Raw Data
