@@ -187,7 +187,11 @@ This project demonstrates the ability to:
 👤 Author & Contact
 
 Priyansh Saxena
-🎓 Engineering Management Graduate | CAPM® Certified
+
+🎓 Engineering Management Graduate | CAPM® Certified | Microsoft Certified: Power BI Data Analyst-PL300
+
 📊 Aspiring Project Analyst / PMO / Business Intelligence
+
 🔗 LinkedIn: https://www.linkedin.com/in/priyanshsaxena1995
+
 💻 GitHub: https://github.com/Priyansh21-hub
