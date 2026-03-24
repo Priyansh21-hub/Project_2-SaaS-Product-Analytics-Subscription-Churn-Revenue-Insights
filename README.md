@@ -9,10 +9,10 @@ The goal is to transform raw data into actionable business insights through a st
 ________________________________________
 🧠 Business Problem
 SaaS businesses often struggle with:
--📉 High customer churn without clear root causes 
--💰 Limited visibility into revenue performance (MRR/ARR) 
--📊 Lack of insight into product usage and feature adoption 
--🎧 Inefficient tracking of customer support and satisfaction 
+-	📉 High customer churn without clear root causes 
+-	💰 Limited visibility into revenue performance (MRR/ARR) 
+-	📊 Lack of insight into product usage and feature adoption 
+-	🎧 Inefficient tracking of customer support and satisfaction 
 ________________________________________
 🎯 Project Objectives
 -Analyze revenue trends and subscription performance 
