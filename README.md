@@ -53,11 +53,9 @@ ________________________________________
 -	Aggregating support metrics 
 ________________________________________
 📸 SQL Queries & Views
- 
- 
- 
-
-
+ ![SQL Table View](Image/SQL%20Table%20View.png)
+ ![SQL Query](Image/SQl%20Query.png)
+ ![SQL Dim Staging](Image/SQL_dim_stg.png)
 ________________________________________
 🧠 Data Modeling (Star Schema)
 A star schema model was implemented to ensure performance and scalability.
@@ -80,8 +78,7 @@ A dedicated Date Dimension (dim_date) was created to:
 👉 An inactive relationship was used for churn_date and activated via DAX when needed.
 ________________________________________
 📸 Data Model (Power BI Model View)
- 
-
+ ![Model View](Image/Model_view.png)
 ________________________________________
 🔄 Power Query (Data Transformation)
 Power Query was used for:
@@ -116,7 +113,7 @@ ________________________________________
 -	Escalation Rate 
 ________________________________________
 📸 DAX Measures Panel
- 
+![DAX Measures](Image/DAX_measure.png)
 ________________________________________
 📊 Dashboards & Insights
 ________________________________________
@@ -125,8 +122,8 @@ Purpose:
 Analyze revenue performance and customer growth
 Key Insights:
 -	MRR trends over time 
--	Revenue distribution by plan 
- 
+-	Revenue distribution by plan
+![Revenue & Growth](Image/Revenue%20%26%20Growth.png)
 ________________________________________
 🟨 Dashboard 2: Churn Analysis
 Purpose:
@@ -135,7 +132,7 @@ Key Insights:
 -	Churn trends 
 -	Churn by industry and plan 
 -	Top churn reasons 
- 
+![Churn Analysis](Image/Churn%20Analysis.png)
 ________________________________________
 🟦 Dashboard 3: Product Usage
 Purpose:
@@ -143,15 +140,17 @@ Analyze feature usage and engagement
 Key Insights:
 -	Most-used features 
 -	Feature-level error rates 
--	Usage trends over time 
- ________________________________________
+-	Usage trends over time
+![Product Usage](Image/Product%20Usage.png)
+ _______________________________________
 🟪 Dashboard 4: Support & Customer Experience
 Purpose:
 Evaluate customer satisfaction and support performance
 Key Insights:
 -	Satisfaction distribution 
 -	Resolution time trends 
--	Escalation impact on satisfaction 
+-	Escalation impact on satisfaction
+![Support and Experience](Image/Support%20And%20Experince.png)
  ________________________________________
 👥 Stakeholders & Usage
 
